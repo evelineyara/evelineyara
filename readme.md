@@ -2,10 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-![babybat](image.png)
-
 Olá! eu sou a Evelin e atualmente sou graduanda em Análise e Desenvolvimento de Sistemas pela PUCRS.
-
 Amo programar como front-end e estou compartilhando meus projetos aqui .✦
 
 Para me conhecer melhor profissionalmente, me segue no [LinkedIn](https://www.linkedin.com/in/evelin-nayara/) .✦
