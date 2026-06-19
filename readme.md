@@ -4,7 +4,7 @@
 
 ![babybat](image.png)
 
-Olá! eu sou a Evelin e atualmente sou graduanda de Análise e Desenvolvimento de Sistemas pela PUCRS.
+Olá! eu sou a Evelin e atualmente sou graduanda em Análise e Desenvolvimento de Sistemas pela PUCRS.
 
 Amo programar como front-end e estou compartilhando meus projetos aqui .✦
 
