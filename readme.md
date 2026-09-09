@@ -13,7 +13,7 @@ Se quiser me conhecer melhor profissionalmente, me acompanhe no [LinkedIn](https
 
 ---
 
-###  | Linguagens e Tecnologias
+  **`Linguagens e Tecnologias`**
 
 <img 
     align="left" 
