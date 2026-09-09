@@ -1,15 +1,18 @@
-# ✦. Evelin Nayara 
+# 🦇Evelin Nayara 
 
-**`Desenvolvedora Front-End`**
+**`FrontEnd Development`**
 
-Olá! eu sou a Evelin e atualmente sou graduanda em Análise e Desenvolvimento de Sistemas pela PUCRS.
-Amo programar como front-end e estou compartilhando meus projetos aqui .✦
+Olá! eu sou a Evelin Nayara, atualmente sou graduanda em Análise e Desenvolvimento de Sistemas pela PUCRS.
+Amo programar como FrontEnd e me envolver em todas as etapas na criação de um site. Sempre gostei muito de criar e brincar com edições, sites, deisgn, desenhos, etc.
+Quero compartilhar meus projetos, estudos e evolução por aqui.
 
-Para me conhecer melhor profissionalmente, me segue no [LinkedIn](https://www.linkedin.com/in/evelin-nayara/) .✦
+------------------------------ .𖥔. ------------------------------  
+
+Se quiser me conhecer melhor profissionalmente, me acompanhe no [LinkedIn](https://www.linkedin.com/in/evelin-nayara/).
 
 ---
 
-###  👾 Linguagens e Tecnologias
+###  👾 Linguagens e Tecnologias:
 
 <img 
     align="left" 
