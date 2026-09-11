@@ -12,7 +12,7 @@ Se quiser me conhecer melhor profissionalmente, me acompanhe no [LinkedIn](https
 
 ---
 
-  **`Linguagens e Tecnologias`**
+![Linguagens e Tecnologias](https://img.shields.io/badge/Linguagens_e_Tecnologias-581c87?style=for-the-badge)
 
 <img 
     align="left" 
