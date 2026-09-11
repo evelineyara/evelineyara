@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D60FFF&width=435&lines=%E2%AD%91+%E0%B9%8B%E0%A3%AD+Evelin+Nayara+%E0%B9%8B%E0%A3%AD+%E2%AD%91" alt="Typing SVG" />
 </a>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR4N2Vpemg3Zno0aHJibGJpMm9kbDB3cHh1dXIwcGhuamFia3EwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iMibGnfF0v2vMY8CLt/giphy.gif" width="250px" alt="BatGIF">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlvOHc0bDJlZTNoZ2Y5dmp6eXFkaTc0bnpvaTdoNnp0cTEwZHRuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZh5bFSMOqVUlQdbQB/giphy.gif" width="200px" alt="BatGIF">
 
 **`FrontEnd Development`**
 
