@@ -8,8 +8,6 @@ Amo programar como FrontEnd e me envolver em todas as etapas da criação de um 
 
 Quero compartilhar meus projetos, estudos e evolução por aqui. 𖥔 .
 
----  
-
 Se quiser me conhecer melhor profissionalmente, me acompanhe no [LinkedIn](https://www.linkedin.com/in/evelin-nayara/)
 
 ---
