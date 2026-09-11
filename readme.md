@@ -51,11 +51,11 @@ Se quiser me conhecer melhor profissionalmente, me acompanhe no [LinkedIn](https
 
 <img 
     align="left" 
-    alt="Oracle SQL" 
-    title="Oracle SQL"
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oraclesql/oraclesql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 
 <picture align="center">
