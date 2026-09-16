@@ -4,7 +4,7 @@
 ![FrontEnd Development](https://img.shields.io/badge/|_FrontEnd_Development-581c87?style=for-the-badge)
 
 Olá! eu sou a Evelin Nayara, atualmente sou graduanda em Análise e Desenvolvimento de Sistemas pela PUCRS.
-Amo programar como FrontEnd e me envolver em todas as etapas da criação de um site. Sempre gostei muito de criar edições, sites, designs, desenhos, etc.
+Amo programar como FrontEnd e me envolver em todas as etapas da criação de um site. Sempre gostei muito de criar edições, designs, desenhos, etc.
 
 Quero compartilhar meus projetos, estudos e evolução por aqui. 𖥔
 
@@ -65,6 +65,15 @@ Se quiser me conhecer melhor profissionalmente, me acompanhe no [LinkedIn](https
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
 <picture align="center">
