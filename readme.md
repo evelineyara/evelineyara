@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D60FFF&width=435&lines=%E2%AD%91+%E0%B9%8B%E0%A3%AD+Evelin+Nayara+%E0%B9%8B%E0%A3%AD+%E2%AD%91" alt="Typing SVG" />
-</a>
+<img width="1584" height="396" alt="Purple and Pink Minimalist Front-End Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/3ed07e7b-3a77-4c08-8dc5-3de80dd27628" />
 
-![FrontEnd Development](https://img.shields.io/badge/|_FrontEnd_Development-581c87?style=for-the-badge)
+
+![FrontEnd Developer](https://img.shields.io/badge/|_FrontEnd_Development-581c87?style=for-the-badge)
 
 Olá! eu sou a Evelin Nayara, atualmente sou graduanda em Análise e Desenvolvimento de Sistemas pela PUCRS.
 Amo programar como FrontEnd e me envolver em todas as etapas da criação de um site. Sempre gostei muito de criar edições, designs, desenhos, etc.
