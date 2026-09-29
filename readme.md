@@ -9,7 +9,7 @@ Se quiser me conhecer melhor profissionalmente, me acompanhe no [LinkedIn](https
 
 ---
 
-![Linguagens e Tecnologias](https://img.shields.io/badge/|_Linguagens_e_Tecnologias)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54067C&width=435&lines=%7CLinguagens+e+Tecnologias" alt="Typing SVG" /></a>
 
 <img 
     align="left" 
