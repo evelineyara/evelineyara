@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Purple and Pink Minimalist Front-End Developer LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/a675de92-3dcb-489e-b4e5-a1b04c750c72" />
+<img width="1584" height="396" alt="Banner Linkedin Rosa e Azul Colorido" src="https://github.com/user-attachments/assets/90148527-5b5f-4b29-94b9-26602981b420" />
+
 
 
 ---
@@ -6,7 +7,7 @@
 Olá! eu sou a Evelin Nayara, atualmente sou graduanda em Análise e Desenvolvimento de Sistemas pela PUCRS.
 Amo programar como FrontEnd e me envolver em todas as etapas da criação de um site. Sempre gostei muito de criar edições, designs, etc.
 
-Quero compartilhar meus projetos, estudos e evolução por aqui.
+Quero compartilhar meus projetos, estudos e evolução por aqui. 𖥔.
 
 Se quiser me conhecer melhor profissionalmente, me acompanhe no [LinkedIn](https://www.linkedin.com/in/evelin-nayara/).
 
