@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Purple and Pink Minimalist Front-End Developer LinkedIn Banner" src="https://github.com/user-attachments/assets/3ed07e7b-3a77-4c08-8dc5-3de80dd27628" />
+<img width="1584" height="396" alt="Purple and Pink Minimalist Front-End Developer LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/a675de92-3dcb-489e-b4e5-a1b04c750c72" />
+
 
 ---
 
