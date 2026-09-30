@@ -9,7 +9,7 @@ Se quiser me conhecer melhor profissionalmente, me acompanhe no [LinkedIn](https
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B0B6B&width=435&lines=%7CLinguagens+e+Tecnologias" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDCDCD&width=435&lines=%7CLinguagens+%26+Tecnologias" alt="Typing SVG" /></a>
 
 <img 
     align="left" 
