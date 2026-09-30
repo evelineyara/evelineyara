@@ -9,8 +9,6 @@ Quero compartilhar meus projetos, estudos e evolução por aqui. 𖥔
 
 Se quiser me conhecer melhor profissionalmente, me acompanhe no [LinkedIn](https://www.linkedin.com/in/evelin-nayara/).
 
----
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDCDCD&width=435&lines=%7CLinguagens+%26+Tecnologias" alt="Typing SVG" /></a>
 
 <img 
