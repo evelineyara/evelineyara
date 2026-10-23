@@ -6,9 +6,10 @@
 
 ✦ Olá! eu me chamo Evelin Nayara, atualmente sou graduanda em Análise e Desenvolvimento de Sistemas pela PUCRS.
 Amo programar como Frontend/Fullstack e me envolver em todas as etapas da criação de um site, além de pensar sobre a criação do design e experiência do usuário.
+
 Quero compartilhar meus projetos, estudos e evolução por aqui. 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80+.%E2%9C%A6.+%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=.+%DD%81%E2%82%8A+%E2%8A%B9+.+%DD%81+%E2%9F%A1+%DD%81+.+%E2%8A%B9+%E2%82%8A+%DD%81." alt="Typing SVG" /></a>
 
 | Se quiser me conhecer melhor profissionalmente, me acompanhe no [LinkedIn](https://www.linkedin.com/in/evelin-nayara/).
 
