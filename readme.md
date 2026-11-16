@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Banner Linkedin Rosa e Azul Colorido" src="https://github.com/user-attachments/assets/90148527-5b5f-4b29-94b9-26602981b420" />
+<img width="1584" height="396" alt="Banner Linkedin Rosa e Azul Colorido" src="https://github.com/user-attachments/assets/13b72e7c-3e8c-44d0-9625-3588e763c0fa" />
 
 
 
