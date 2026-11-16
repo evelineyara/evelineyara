@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Banner Linkedin Rosa e Azul Colorido" src="https://github.com/user-attachments/assets/b1d1d7a6-f403-4fbc-a626-5b1274030125" />
+<img width="1584" height="396" alt="Evelin Nayara - FullStack" src="https://github.com/user-attachments/assets/e4347252-e005-401d-8a10-3bb2b394d7f1" />
+
 
 
 
