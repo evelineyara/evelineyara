@@ -7,7 +7,7 @@
 
 ---
 
-✦ Olá! eu me chamo Evelin Nayara, atualmente sou Graduanda em Análise e Desenvolvimento de Sistemas pela Pucrs.
+✦ Olá! eu sou a Evelin e atualmente sou Graduanda em Análise e Desenvolvimento de Sistemas pela Pucrs.
 Amo desenvolver como FullStack e me envolver em todas as etapas da criação do desenvolvimento de software, além de pensar sobre a criação do design e experiência do usuário.
 
 Compartilho meus projetos, estudos e evolução por aqui.
