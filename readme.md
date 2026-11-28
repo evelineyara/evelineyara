@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Evelin Nayara - FullStack" src="https://github.com/user-attachments/assets/e4347252-e005-401d-8a10-3bb2b394d7f1" />
+<img width="2056" height="765" alt="cósmico detalhado" src="https://github.com/user-attachments/assets/5f277496-c47e-47e1-ac74-42a91f80657b" />
+
 
 
 
