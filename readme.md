@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="banner fullstack allblack" src="https://github.com/user-attachments/assets/1cac3b95-4614-4e49-889a-a9d503673608" />
+<img width="2172" height="724" alt="banner fullstack allblack melhor qualidade" src="https://github.com/user-attachments/assets/ea452d18-3892-4b39-921b-3c98b04bd6d8" />
 
 
 
