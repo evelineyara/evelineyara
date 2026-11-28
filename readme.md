@@ -16,7 +16,7 @@ Compartilho meus projetos, estudos e evolução por aqui.
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=C065FB&width=435&lines=%3CLinguagens+%26+Tecnologias%2F%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=8F9191&width=435&lines=%3CLinguagens+%26+Tecnologias%2F%3E" alt="Typing SVG" /></a>
 
 <img 
     align="left" 
