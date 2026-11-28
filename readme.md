@@ -1,4 +1,5 @@
-<img width="2056" height="765" alt="cósmico detalhado" src="https://github.com/user-attachments/assets/5f277496-c47e-47e1-ac74-42a91f80657b" />
+<img width="1584" height="396" alt="banner fullstack allblack" src="https://github.com/user-attachments/assets/1cac3b95-4614-4e49-889a-a9d503673608" />
+
 
 
 
